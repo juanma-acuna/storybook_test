@@ -1,5 +1,5 @@
 {
-  "name": "nea-storybook-test",
+  "name": "@juanma-acuna/storybook_test",
   "version": "0.6.0",
   "publishConfig": {
     "@juanma-acuna:registry": "https://npm.pkg.github.com"
