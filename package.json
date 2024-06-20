@@ -1,7 +1,6 @@
 {
   "name": "@juanma-acuna/storybook_test",
   "version": "0.1.0",
-  "private": true,
   "publishConfig": {
     "@juanma-acuna:registry": "https://npm.pkg.github.com"
   },
