@@ -37,3 +37,9 @@ LargeBlueRed.args = {
   size: 'lg',
   color: '#9E180B',
 };
+
+export const Tiny = Template.bind({});
+Tiny.args = {
+  label: "Tiny",
+  size: 'sm'
+}
