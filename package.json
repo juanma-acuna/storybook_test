@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@juanma-acuna:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanma-acuna/storybook_test"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
