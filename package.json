@@ -1,7 +1,10 @@
 {
-  "name": "storybook",
+  "name": "@juanma-acuna/storybook_test",
   "version": "0.1.0",
   "private": true,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
